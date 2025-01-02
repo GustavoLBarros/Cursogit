@@ -1,2 +1,2 @@
 # Cursogit
- teste do curso, primeiro repositorio
+ teste do curso, primeiro repositório.
